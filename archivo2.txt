@@ -1,0 +1,2 @@
+El tema de hoy en clases es git(sistema de control de versiones)
+y el uso de comandos linux
