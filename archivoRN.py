@@ -1,1 +1,1 @@
-print("Tema de hoy CREACION DE RAMAS")
+x = 8*3
